@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Jane Doe - Nutrition Coach & Chef Consultant"
+title = "Code & Quirk with Pradeesh – AI & Tech Consulting Redefined"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -35,7 +35,7 @@ title = "Jane Doe - Nutrition Coach & Chef Consultant"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = ""Code & Quirk with Pradeesh – AI & Tech Consulting Redefined"
+    title = "Code & Quirk with Pradeesh – AI & Tech Consulting Redefined"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "AI & Tech Consulting Redefined"
