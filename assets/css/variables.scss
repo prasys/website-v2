@@ -8,7 +8,7 @@
     /*iverse colors used for :hover */
     --highlight-inverse: #3a4145; /* Dark colour for inverse highlight */
     //--highlight-inverse: var(--cover-text-color);
-    --highlight-inverse-contrast: #007bff;
+    --highlight-inverse-contrast: #007bff; 
 
     /* visual guard around title and description, when the feature is enabled */
     --cover-title-and-description-guard-bg-color: rgba(0, 0, 0, 0.877);
@@ -28,7 +28,7 @@
     /* Dark section - text color */
     --section-dark-text-color: var(--section-light-bg-color);
     /* Dark section - background color */
-    --section-dark-bg-color: #007bff;
+    --section-dark-bg-color: #282a36; //282a36
 
     /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
     --section-uni-quote: grey;
@@ -40,7 +40,7 @@
     --single-page-bg-color: var(--section-light-bg-color);
 
     /* === Footer === */
-    --footer-color-background: #282a36;
+    --footer-color-background: #007bff;
     --footer-color: #f2efe8;
 
     /* === Lists === */
