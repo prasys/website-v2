@@ -1,14 +1,10 @@
 ---
-title: "Welcome"
+title: "Kia Ora"
 weight: 1
 ---
 
-`Hugo-Scroll` theme alternates colors of sections that are placed on single page. 
-The landing screen is meant to be visually striking.
+I am Pradeesh, the founder of Prasys Consulting, an independent AI and tech consulting firm. My main focus is to assist business in Aotearoa New Zealand with their tech journey, with a focus on [artifical inteligence](services).
 
-Single-page approach is oriented towards small to medium content length, that won't overwhelm the user. 
-You can also delegate lengthier, less important or more sizeable content to [dedicated pages](services).
 
-> The belly rules the mind. --- spanish proverb
+> Once a new technology rolls over you, if you’re not part of the steamroller, you’re part of the road. --- Steawrt Brand
 
-By the way this welcome section won't show in the cover menu.
