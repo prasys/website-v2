@@ -1,13 +1,14 @@
 :root {
 
     /* === Cover / Landing area === */
-    --cover-text-color: #37501a;
+    --cover-text-color: #ffffff;
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-    --highlight: #86c440;
+    --highlight: #007bff;
     --highlight-contrast: var(--cover-text-color);
     /*iverse colors used for :hover */
-    --highlight-inverse: var(--cover-text-color);
-    --highlight-inverse-contrast: white;
+    --highlight-inverse: #3a4145; /* Dark colour for inverse highlight */
+    //--highlight-inverse: var(--cover-text-color);
+    --highlight-inverse-contrast: #007bff;
 
     /* visual guard around title and description, when the feature is enabled */
     --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
@@ -15,7 +16,7 @@
 
 
     /* === sticky top/left navigation menus === */
-    --sticky-menu-text-color: #9fd067;
+    --sticky-menu-text-color: #ffffff;
 
 
     /* === Alternating content (post) sections  === */
@@ -39,8 +40,8 @@
     --single-page-bg-color: var(--section-light-bg-color);
 
     /* === Footer === */
-    --footer-color-background: #22343a;
-    --footer-color: #bbc7cc;
+    --footer-color-background: #282a36;
+    --footer-color: #9fd067;
 
     /* === Lists === */
     /* define list element for unnumbered lists, leave empty for default list element */
