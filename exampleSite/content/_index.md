@@ -6,7 +6,7 @@ header_image: "images/background2.png"
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/logo_transparent_128x128"
+header_logo: "images/logo_transparent_128x128.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Code & Quirk with Pradeesh"
