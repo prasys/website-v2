@@ -17,7 +17,7 @@ That is the important part, right? You want to know what I can do for you. This 
 
 ### AI Automation Services
 
-Our AI automation services are designed to revolutionize organizational efficiency by automating routine and mundane tasks. Here, we implement a human-in-the-loop approach, we ensure that AI complements human expertise, enhancing decision-making and operational precision. This synergy of AI and human insight not only streamlines processes but also adheres to the principles of responsible AI, guaranteeing ethical, transparent, and accountable solutions.
+Our AI automation services are designed to revolutionise organisational efficiency by automating routine and mundane tasks. Here, we implement a human-in-the-loop approach, we ensure that AI complements human (we put humans first), enhancing decision-making and operational precision. Our services are grounded on the principles of responsible AI (guaranteeing ethical, transparent, and accountable solutions).
 
 ### Building Automation with AI
 
