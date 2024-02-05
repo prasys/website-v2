@@ -1,5 +1,6 @@
 ---
 title: "Kia Ora 👋"
+navigation_menu_title: "Welcome"
 weight: 1
 ---
 
