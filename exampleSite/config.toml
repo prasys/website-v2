@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Code & Quirk with Pradeesh – AI & Tech Consulting"
+title = "Pradeesh – AI & Tech Consulting"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
