@@ -6,10 +6,13 @@ weight: 2
 header_menu: true
 ---
 
-Feature notice: This section displays options to customize title:
-- has a normal section title (`title` = "The Services I Offer"),
+We offer the following services:
+- AI Automation Services (`title` = "The Services I Offer"),
 - custom welcome screen title (`header_menu_title` = "Services"),
 - custom navigation menu title (`navigation_menu_title` = "My Services").
+
+
+Want to learn more about my services? See [dedicated page](services) with more details.
 
 That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
 
@@ -19,7 +22,7 @@ That is the important part, right? You want to know what I can do for you. This 
 
 Our AI automation services are designed to revolutionise organisational efficiency by automating routine and mundane tasks. Here, we implement a human-in-the-loop approach, we ensure that AI complements human (we put humans first), enhancing decision-making and operational precision. Our services are grounded on the principles of responsible AI (guaranteeing ethical, transparent, and accountable solutions).
 
-### Building Automation with AI
+### System Intergration 
 
 I can raise your table culture!
 
